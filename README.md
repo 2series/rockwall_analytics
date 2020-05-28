@@ -2,7 +2,7 @@
 
 As a Data scientist facing constant repetitive task when approaching new datasets, this repo aims at automating a lot of these tasks in order to get to the actual analysis as quickly as possible. Of course, there will always be exceptions to the rule, some manual work and customization will be required. But overall a large swath of that work can be automated by building a smart pipeline. This is what I’ll do here. This is especially important in the era of *big data* where handling variables by hand isn’t always possible
 
-### Advisory Services
+### Data & Analytics Advisory
 
 It was only in the last few years that *Big Data* became the buzz phrase that confused many and overwhelmed many more. Two years ago, most executives and IT departments were still struggling to understand what the data revolution meant for them and their business; many were just fighting to keep their heads above water
 
