@@ -1,4 +1,4 @@
-![](https://drive.google.com/open?id=1yppQPZFGs7533IuwRFzOAaXAcUS7aQbq)
+![](https://drive.google.com/uc?id=1yppQPZFGs7533IuwRFzOAaXAcUS7aQbq)
 
 ![](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
