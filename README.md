@@ -1,19 +1,25 @@
 ![](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
-### Automating the Build
+As a Data scientist facing constant repetitive task when approaching new datasets, this repo aims at automating a lot of these tasks in order to get to the actual analysis as quickly as possible. Of course, there will always be exceptions to the rule, some manual work and customization will be required. But overall a large swath of that work can be automated by building a smart pipeline. This is what I’ll do here. This is especially important in the era of *big data* where handling variables by hand isn’t always possible
 
-Build a pipeline to automate the processing of raw data for discovery and modeling
-Know the main steps to prepare data for modeling
-Know how to handle the different data types in R
-Understand data imputation
-Treat categorical data properly with binarization (making dummy columns)
-Apply feature engineering to dates, integers and real numbers
-Apply variable selection, correlation and significance tests
-Model and measure prepared data using both supervised and unsupervised modeling
-Description
+### Advisory Services
 
-As a Data scientist facing constant repetitive task when approaching new datasets, this repo aims at automating a lot of these tasks in order to get to the actual analysis as quickly as possible. Of course, there will always be exceptions to the rule, some manual work and customization will be required. But overall a large swath of that work can be automated by building a smart pipeline. This is what I’ll do here. This is especially important in the era of big data where handling variables by hand isn’t always possible.
+It was only in the last few years that *Big Data* became the buzz phrase that confused many and overwhelmed many more. Two years ago, most executives and IT departments were still struggling to understand what the data revolution meant for them and their business; many were just fighting to keep their heads above water
 
-This is a great learning strategy to think in terms of an automated pipeline and to understand, design and build each stage as separate and independent units.
+**Rockwall Analytics** understands how to turn data into insights into value, giving your organization the competitive advantage
+
+We combine deep business experience with cutting-edge capabilities and proven solutions to help our clients make better, faster decisions in all areas of their business. In doing so, we can help organizations go beyond their data to increase revenue, reduce costs and manage risk throughout the enterprise 
+
+#### How we can help
+
+With analytical and technical solutions deeply anchored in industry and functional knowledge, combined with a detailed understanding of our clients' needs, our approaches demystify *big data*, tackle industry-specific challenges and cover a range of important business issues
+
+These include:
+
++ financial services
++ technology, media and telecommunications
++ consumer markets
++ energy and natural resources
++ healthcare
 
 
