@@ -25,4 +25,4 @@ These include:
 
 <center> <h3>Your struggle with data ends with Rockwall Analytics’s data advisory services</h3> </center>
 
-![](https://drive.google.com/uc?id=1vu0AnrqIi-OK_3u8kd0BNCgCmtLfZ5iw)
+![](https://drive.google.com/uc?export=view&id=1vu0AnrqIi-OK_3u8kd0BNCgCmtLfZ5iw)
