@@ -1,7 +1,7 @@
 ## About Rockwall Analytics
-Data Analytics and Artificial Intelligence is growing to be an ubiquitous need in the modern enterprise ecosystem. The need for Analytics is ranging from basic Descriptive and Diagnostic Analytics to advanced Predictive, Prescriptive and Cognitive Analytics.  However, the barrier of entry is high due to expensive infrastructure and highly skilled resource requirements
-
-Rockwall Analytics Inc. aims to eliminate this barrier by introducing a product that makes it easy for businesses to embrace data science and gain data intelligence
+*Rockwall Analytics* is a venture-funded startup. The company was founded and is led by the CEO, Rihad Variawa, a data scientist with an interest in deep learning, machine learning and statistical modeling. Before *Rockwall Analytics* he was the *Senior Data Scientist Managing Partner* at Malastare.ai and head of global Fintech Research, responsible for overall vision and strategy, investment priorities and offering development. Working in the financial services industry, helping clients adopt new technologies that can transform the way they transact and engage with their customers by building modern software applications across various business domains
+ 
+Our mission is to enable organizations to make an easier transition into the field of Data Analytics and Artificial Intelligence. We aim to achieve this more efficiently than an organization might expect, were it to invest in the manpower and technology to build such complex platforms. For a universal need such as Data Science and Ai, a dedicated focus is absolutely critical and *Rockwall Analytics* empowers our clients with the knowledge that allows them to apply in their core business offerings
 
 ![](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
