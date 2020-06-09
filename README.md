@@ -19,7 +19,7 @@ We combine deep business experience with cutting-edge capabilities and proven so
 
 With analytical and technical solutions deeply anchored in industry and functional knowledge, combined with a detailed understanding of our clients' needs, our approaches demystify *big data*, tackle industry-specific challenges and cover a range of important business issues
 
-*These include:*
+*These include*
 ```
 financial services
 technology, media and telecommunications
