@@ -21,11 +21,11 @@ With analytical and technical solutions deeply anchored in industry and function
 
 *These include:*
 ```
-+ financial services
-+ technology, media and telecommunications
-+ consumer markets
-+ energy and natural resources
-+ healthcare
+financial services
+technology, media and telecommunications
+consumer markets
+energy and natural resources
+healthcare
 ```
 
 <center> <h3>Your struggle with data ends with Rockwall Analytics’s data advisory services</h3> </center>
