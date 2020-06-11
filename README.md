@@ -1,5 +1,5 @@
 ## About Rockwall Analytics
-*Rockwall Analytics* is a venture-funded startup. The company was founded and is led by Rihad, a data scientist with an interest in deep learning, machine learning and statistical modeling. Before *Rockwall Analytics* he was the *Senior Data Scientist Managing Partner* at Malastare.ai and head of global Fintech Research, responsible for overall vision and strategy, investment priorities and offering development. Working in the financial services industry, helping clients adopt new technologies that can transform the way they transact and engage with their customers by building modern software applications across various business domains
+*Rockwall Analytics* is a venture-funded startup 
  
 Our mission is to enable organizations to make an easier transition into the field of Data Analytics and Artificial Intelligence. We aim to achieve this more efficiently than an organization might expect, were it to invest in the manpower and technology to build such complex platforms. For a universal need such as Data Science and Ai, a dedicated focus is absolutely critical and *Rockwall Analytics* empowers our clients with the knowledge that allows them to apply in their core business offerings
 
@@ -21,11 +21,11 @@ With analytical and technical solutions deeply anchored in industry and function
 
 *These include*
 ```
-financial services
-technology, media and telecommunications
-consumer markets
-energy and natural resources
-healthcare
+Financial Services
+Technology, Media & Telecommunications
+Consumer Markets
+Energy & Natural Resources
+Healthcare
 ```
 
 <center> <h3>Your struggle with data ends with Rockwall Analytics’s data advisory services</h3> </center>
