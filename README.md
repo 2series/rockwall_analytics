@@ -29,8 +29,8 @@ Healthcare
 ```
 
 <center> <h3>Your struggle with data ends with Rockwall Analytics’s data advisory services</h3> </center>
-[![Rockwall Analytics](image_gallery/ai.png)](https://www.youtube.com/embed/pOoBPEJpFoY?start=1 "Our future with AI")
+[![Rockwall Analytics](image_gallery/ai.png)](https://www.youtube.com/embed/pOoBPEJpFoY?start=1 "Data and Analytics")
 
-![]()
+![](https://promo.com/share/5ef5192a861eda4712213e3b?utm_source=v1_shareDialog2_copy)
 
 ![](https://drive.google.com/uc?export=view&id=1i7fzIUxz-oEs8V4uMdoZCQUl51NMrbVz)
