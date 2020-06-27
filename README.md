@@ -1,7 +1,7 @@
 ## About Rockwall Analytics
 *Rockwall Analytics* is a values-based organization with a powerful sense of shared purpose towards our mission: to serve people. The brand is to liberate from following a trend, find our own purpose and define our own style, and make that our image
 
-![](https://www.youtube.com/embed/JVvfk56hckY)
+![](https://youtu.be/JVvfk56hckY)
 
 
 <div align="center">
