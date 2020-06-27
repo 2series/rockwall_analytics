@@ -1,14 +1,11 @@
 ## About Rockwall Analytics
 *Rockwall Analytics* is a values-based organization with a powerful sense of shared purpose towards our mission: to serve people. The brand is to liberate from following a trend, find our own purpose and define our own style, and make that our image
 
-![](https://youtu.be/JVvfk56hckY)
+[![SC2 Video](img_gallery/SC2_youtube.png)](https://youtu.be/JVvfk56hckY "SC2 Rockwall Analytics - Click to Watch!")
 
 
-<div align="center">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/JVvfk56hckY" frameborder="0" allowfullscreen>
-   </iframe>
-</div>
-
+makedir img_gallery
+[![Our future with AI](image_gallery/ai.png)](https://www.youtube.com/embed/pOoBPEJpFoY?start=1 "Our future with AI")
 
 Our mission is to enable organizations to make an easier transition into the field of Data Analytics and Artificial Intelligence. Our aim to achieve this more efficiently than an organization might expect were it to invest in the manpower and technology to build such complex platforms. For a universal need such as Data Science and Artificial Intelligence, a dedicated focus is absolutely critical and Rockwall Analytics empowers our clients with the knowledge that allows them to apply in their core business offerings
 
