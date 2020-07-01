@@ -3,7 +3,7 @@
 
 [![SC2 Video](img_gallery/SC2_youtube.png)](https://youtu.be/JVvfk56hckY "SC2 Rockwall Analytics - Click to Watch!")
 
-Our mission is to enable organizations to make an easier transition into the field of Data Analytics and Artificial Intelligence. Our aim to achieve this more efficiently than an organization might expect were it to invest in the manpower and technology to build such complex platforms. For a universal need such as Data Science and Artificial Intelligence, a dedicated focus is absolutely critical and Rockwall Analytics empowers our clients with the knowledge that allows them to apply in their core business offerings
+Our mission is to enable organizations to make an easier transition into the field of Analytics and Applied Ai. Our aim to achieve this more efficiently than an organization might expect were it to invest in the manpower and technology to build such complex platforms. For a universal need such as Data Science and Artificial Intelligence, a dedicated focus is absolutely critical and Rockwall Analytics empowers our clients with the knowledge that allows them to apply in their core business offerings
 
 Data Analytics and Artificial Intelligence are growing to be a ubiquitous need in the modern enterprise ecosystem. Our need for analytics is ranging from basic descriptive and diagnostic analytics to advanced predictive, prescriptive, and cognitive analytics. However, the barrier of entry is high due to expensive infrastructure and highly skilled resource requirements. Rockwall Analytics aims to eliminate this barrier by introducing products that make it easy for businesses to embrace data science and gain data intelligence
 
