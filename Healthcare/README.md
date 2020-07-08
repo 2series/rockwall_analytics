@@ -16,7 +16,7 @@ With fully managed, highly elastic cloud service on both AWS and Azure, infrastr
 ### Easily Build Reliable Data Pipelines at Scale
 One of the most common problems firms face when dealing with massive volumes of real world data across disparate sources is that it can become *unreliable, low quality, and challenging to manage*. Many organizations turn to data lakes to aggregate their big data cost-effectively, but this poses its own challenges. Delta Lake, an open-source storage layer for data lakes, is natively integrated in *Rockwall Analytics*' to provide ACID transactions for big data use cases, including batch and streaming ingests, fast interactive queries, and machine learning. Designed to help data professionals build robust production data pipelines at scale, Delta Lake brings data reliability and performance to your data lakes so you can finally make use of all your real world data
 
-<img src="./Healthcare/img_gallery/fig-1.png"/>
+<img src="./img_gallery/fig-1.png"/>
 
 ### Innovate Faster with Collaborative Research
 In medicine, timing and speed is everything. Data scientists and bioinformaticians using interactive workspace can use their preferred scripting languages, such as R, Python, Scala, and SQL, and libraries, including Tensorflow, Keras, Pytorch, scikit-learn, nltk ML, pandas, koalas etc., to interact with data and accelerate innovation
@@ -25,12 +25,12 @@ Collaborative workspaces allow teams to view and edit models in-flight and provi
 
 Data scientists can turn insights from real world data into powerful visualizations designed for machine learning, such as matplotlib, ggplot, etc. Visualizations can be turned into interactive dashboards that are easily shared with clinicians, research scientists, and decision makers across the drug development lifecycle. Integrates with popular BI tools, including Looker, Tableau, Qlik, and Alteryx, so that existing investments can be fully leveraged. By integrating and streamlining the individual elements that comprise the analytics lifecycle, teams can now innovate with real world data in a matter of days instead of months
 
-<img src="./Healthcare/img_gallery/fig-2.png"/>
+<img src="./img_gallery/fig-2.png"/>
 
 ### Simplify the Machine Learning Lifecycle
 Successfully building and deploying models in a clinical setting can be difficult. Enabling other data scientists to reproduce a pipeline, compare the results of different versions, track what’s running where, and redeploy and rollback updated models, is even harder. MLflow, an open-source framework for managing the complete machine learning lifecycle, is open and extensible by design, and platform agnostic for maximum flexibility. With MLflow, data scientists can track and share experiments locally or in the cloud; package and share models across frameworks; and deploy models virtually anywhere, accelerating time-to-insight and reproducibility in the lab
 
-<img src="./Healthcare/img_gallery/fig-3.png"/>
+<img src="./img_gallery/fig-3.png"/>
 
 ### Keeping Patient Data Safe and Secure
 *Rockwall Analytics* takes security very seriously. Data should be protected at every level of the platform through fine grained access control and deep integration with cloud-provider access control mechanisms. Providers should offers a HIPAA compliant cloud-based platform. An independently audited platform should be compliant with HIPAA security and breach notification rules, including comprehensive technical safeguards covering access, encryption, auditing, and many other stringent controls
