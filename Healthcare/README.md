@@ -1,7 +1,7 @@
 # Analyzing Real World Evidence at Scale
 ## July 8, 2020
-## About RIHAD VARIAWA
-> As a Data Scientist and former head of global fintech research at Malastare.ai, I find fulfillment tacking challenges to solve complex problems using data
+## Authors RIHAD & SAMIRA
+> Rihad, a Data Scientist and former head of global fintech research at Malastare.ai, I find fulfillment tacking challenges to solve complex problems using data
 
 *By applying advanced analytics and machine learning to data, healthcare and life sciences firms can deliver on a number of innovative use cases*
 
