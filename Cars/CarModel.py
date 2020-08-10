@@ -1,6 +1,6 @@
 # coding: utf-8
 
-#Import a bunch of stuff
+# Import a bunch of stuff
 import numpy as np
 from keras import layers, callbacks
 from keras.optimizers import SGD, Adam
@@ -19,10 +19,10 @@ from keras.initializers import glorot_uniform
 import dask.array as da
 import scipy.misc
 from matplotlib.pyplot import imshow
-#This only works on jupyter notebook:
-#get_ipython().magic('matplotlib inline')
+# This only works on jupyter notebook:
+# get_ipython().magic('matplotlib inline')
 
-#Clear Memory
+# Clear Memory
 import gc
 gc.collect()
 
@@ -31,29 +31,29 @@ K.set_image_data_format('channels_last')
 K.set_learning_phase(1)
 
 #==========================================================================
-#PART 0 - Set Some Stuff
+# PART 1 - Set Some Stuff
 #==========================================================================
 img_width = 224
 img_height = 224
 classes = 196
 batch_size = 16
-epochs = 10 #Be sure to set this based on how long you want to run for!
-patience = 50 #For Callbacks
+epochs = 10 # Be sure to set this based on how long you want to run for!
+patience = 50 # For Callbacks
 verbose = 1
 num_train_samples = 6549
-num_valid_samples = 1695 #Cross validation: num_train_samples + num_valid_samples = # of train images
-mode = 'sgd' #adam or sgd
+num_valid_samples = 1695 # Cross validation: num_train_samples + num_valid_samples = # of train images
+mode = 'sgd' # adam or sgd
 
 #==========================================================================
-#PART 1 - Initialize the Model
+# PART 2 - Initialize the Model
 #==========================================================================
 
-#Import the structure for an identity block, a convolution block, and a full residual CNN (based on both):
+# Import the structure for an identity block, a convolution block, and a full residual CNN (based on both):
 from identity_block import *
 from conv_block import *
 from res_net import *
 
-#Build the model:
+# Build the model:
 model = ResNet(input_shape = (img_width, img_height, 3), classes = classes)
 if (mode == 'sgd'): optimizer = SGD(lr=1e-3, decay=1e-6, momentum=0.9, nesterov=True) #This one seems to work better
 if (mode == 'adam'): optimizer = Adam(lr=0.001, beta_1=0.9, beta_2=0.999, epsilon=None, decay=0.0, amsgrad=False)
@@ -64,7 +64,7 @@ except:
         model.compile(optimizer=optimizer, loss='categorical_crossentropy', metrics=['accuracy'])
 
 #==========================================================================
-#PART 2 - Import Data and Set-up Training Parameters (Callbacks, etc.)
+# PART 3 - Import Data and Set-up Training Parameters (Callbacks, etc.)
 #==========================================================================
 
 # Load Dataset (note that test data is loaded separately lower down - this helps with memory)
@@ -81,7 +81,7 @@ if (num_valid_samples > 0):
 	Y_valid = Y_train[num_train_samples::]
 	X_train = X_train[0:num_train_samples,:,:,:]
 	Y_train = Y_train[0:num_train_samples]
-	
+
 
 print ("number of training examples = " + str(X_train.shape[0]))
 print ("X_train shape: " + str(X_train.shape))
@@ -104,18 +104,18 @@ reduce_lr = callbacks.ReduceLROnPlateau('val_acc', factor=0.1, patience=int(pati
 callbacks=[csv_logger,checkpoint,early_stop,reduce_lr]
 
 #==========================================================================
-#PART 3 - Train the Model
+# PART 4 - Train the Model
 #==========================================================================
 model.fit_generator(train_generator, steps_per_epoch=num_train_samples/batch_size, validation_data=valid_generator, validation_steps=num_valid_samples/batch_size, epochs=epochs, callbacks=callbacks, verbose=verbose)
 
 #==========================================================================
-#PART 4 - Test the Model
+# PART 5 - Test the Model
 #==========================================================================
 
-#Tidy up memory:
+# Tidy up memory:
 X_train_orig = Y_train_orig = X_train = Y_train = None
 
-#Imoprt stuff
+# Imoprt stuff
 X_test, Y_test_orig, classes = load_test_dataset()
 Y_test = convert_to_one_hot(Y_test_orig, 196).T
 
