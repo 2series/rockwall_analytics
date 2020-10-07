@@ -4,7 +4,7 @@
 
 *By applying advanced analytics and machine learning to data, banking firms can deliver on a number of innovative use cases*
 
-<img src="./img_gallery/fig-b.png"/>
+<img src="./img_gallery/fig-2.png"/>
 
 # Customer Acquisitions: At a Glance
 Customer acquisition is the process of acquiring new customers for business or converting existing clients into new customers. Acquisition of new customers is a key and vital element of every firm’s growth strategy
@@ -37,7 +37,7 @@ Determination of the prospect universe, is carried out, by considering the subje
 ### Right Channel
 Channel is the medium through which you reach out to customer(s) or vice versa for the product(s) a company is offering. A marketing manager, typically makes the choice of a channel, or a combination of channels by evaluating a variety of factors like reach of the channel, cost etc.
 
-<img src="./img_gallery/fig-a.png"/>
+<img src="./img_gallery/fig-1.png"/>
 
 Analyst help the acquisition management team to find an optimal channel that will help in acquiring new customers at an optimal cost. Cost of Acquisition differs by the channel selected, it's cheaper in case of electronic channel like email and internet while it is costlier in the case of offline channels like direct mail, customized paper mails etc.
 
