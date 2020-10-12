@@ -2,7 +2,7 @@
 ## Rihad Variawa
 ## 12 October 2020
 
-![License: GPL v5](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![License: GPL v5](https://img.shields.io/badge/License-GPLv5-blue.svg)
 
 
 **The CDFS Designation** "The highest distinction in the data science profession"
