@@ -23,19 +23,20 @@ We can give your organisation a holistic view of your data, enabling you to lear
 With analytical and technical solutions deeply anchored in industry and functional knowledge, combined with a detailed understanding of our clients' needs, our approaches demystify data management, tackle industry-specific challenge, and cover a range of important business issues.
 
 ## We can help you with:
-data analytics strategy and roadmap
-dashboards and visualisation
-execution support
-scheduling/optimisation
-compliance (controls, fraud)
-data monetisation
-bespoke models.
+
+* data analytics strategy and roadmap
+* dashboards and visualisation
+* execution support
+* scheduling/optimisation
+* compliance (controls, fraud)
+* data monetisation
+* bespoke models
 
 ## Industry focus
 Industries we work with include:
 
-financial services
-technology, media and telecommunications
-consumer markets
-energy and natural resources
-healthcare
+* financial services
+* technology, media and telecommunications
+* consumer markets
+* energy and natural resources
+* healthcare
