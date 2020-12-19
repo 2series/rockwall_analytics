@@ -2,7 +2,7 @@
 ## Investment Banking - Analysis By Rockwall Analytics
 ## We have been engaged to help drive Profitability Improvement
 ## Aug 15, 2020
-## Authors RIHAD & SAMIRA VARIAWA
+## Authors RIHAD, SAMIRA VARIAWA
 
 <img src="./gallery/rockwall.png"/>
 
