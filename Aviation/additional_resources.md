@@ -3,9 +3,9 @@
 ## Aug 15, 2020
 ## Authors RIHAD, SAMIRA, SALENA & ISHITA
 
-<img src="./img_gallery/rockwall.png"/>
+<img src="./gallery/rockwall.png"/>
 
-[![SC2 Video](img_gallery/SC2_youtube.png)](https://youtu.be/kHF-vFxzNGE "SC2 Dataiku DSS Tutorial 101: Your very first steps!")
+[![SC2 Video](gallery/SC2_youtube.png)](https://youtu.be/kHF-vFxzNGE "SC2 Dataiku DSS Tutorial 101: Your very first steps!")
 
 
 # Ethics Declarations
