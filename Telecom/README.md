@@ -18,7 +18,7 @@ This multi-part task series worked on by our strategy advisors, **RIHAD & SAMIRA
 
 >Our client is a telecommunications operator who has had declining profits for several years. We have been engaged to help drive Profitability improvement
 
-## Objective -- update README
+## Objective
 
 >Help our client reverse profits by generating a competitive advantage
 
