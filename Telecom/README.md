@@ -6,7 +6,7 @@
 
 <img src="./gallery/rockwall.png"/>
 
-[![SC2 Video](img_gallery/SC2_youtube.png)](https://www.youtube.com/watch?v=6CU3g0X4yF0 "SC2 Rockwall Analytics - Click to Watch!")
+[![SC2 Video](gallery/SC2_youtube.png)](https://www.youtube.com/watch?v=6CU3g0X4yF0 "SC2 Rockwall Analytics - Click to Watch!")
 
 Welcome! We’re so excited to have you here with us!
 
